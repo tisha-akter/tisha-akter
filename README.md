@@ -1,5 +1,5 @@
 <!-- [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--EJm2Q_Yh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x9jx4vw356x1gdkss3gx.gif)] -->
-<img align="center" alt="coding" width="1000" src="https://res.cloudinary.com/practicaldev/image/fetch/s--EJm2Q_Yh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x9jx4vw356x1gdkss3gx.gif">
+<img align="center" alt="coding" height="450" width="1000" src="https://res.cloudinary.com/practicaldev/image/fetch/s--EJm2Q_Yh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x9jx4vw356x1gdkss3gx.gif">
 
 <h1 align="center">Hi 👋, I'm Tisha</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
