@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Friday Shopping**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Bootstrap, Tailwind, JavaScript**
+- 💬 Ask me about **Bootstrap, Tailwind, JavaScript, React Js**
 
-- ⚡ Fun fact **I am so funny hehe**
+- ⚡ Fun fact **My coding errors be like: "Why, why, why?!" But hold on tight, because eventually, the "whys" become "ohhhh, that's why!" It's like a hilarious game of hide-and-seek with my own code!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
