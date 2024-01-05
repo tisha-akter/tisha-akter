@@ -9,9 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tisha-akter&label=Profile%20views&color=0e75b6&style=flat" alt="tisha-akter" /> </p>
 
 
-- 🌱 I’m currently learning **Python**
-
-- 📝 I regularly write articles on [https://medium.com/@tisha.akter](https://medium.com/@tisha.akter)
+- 📝 Find my articles on [https://medium.com/@tisha.akter](https://medium.com/@tisha.akter)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, React, MongoDB**
 
